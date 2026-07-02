@@ -30,7 +30,7 @@ The National Social Assistance Programme (NSAP) provides financial assistance to
 ## 📊 Machine Learning Model
 - Algorithm: (Mention your algorithm, e.g., Random Forest, Decision Tree, XGBoost)
 - Dataset: NSAP Eligibility Dataset
-- Target: Eligible Scheme
+- Target: Eligible Schemes - Total Beneficiaries 
 
 ## ☁ IBM Cloud Services Used
 - IBM Cloud
@@ -53,6 +53,8 @@ Add screenshots of:
 <img width="1080" height="682" alt="1000238863" src="https://github.com/user-attachments/assets/f7421f01-9646-41ce-92a8-8a64d9aa2e03" />
 -online deployment
 <img width="1424" height="675" alt="1000238867" src="https://github.com/user-attachments/assets/04504a86-908a-4bc5-9cc3-a6b031aed881" />
+-Resource usage
+<img width="1600" height="1200" alt="1000238874" src="https://github.com/user-attachments/assets/03aea4d7-7481-424a-ac69-7141799a3461" />
 - IBM Cloud Deployment
 
 ## 👨‍💻 Developed By
